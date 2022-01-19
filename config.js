@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'tanh béo!',
-    introDesc: Tại sao phong lại đyeu z`,
+    introDesc: 'Tại sao phong lại đyeu z`',
     btnIntro: 'hihi',
     title: 'Phong rấc cute 😙',
     desc: 'Rất cute đúng khom ',
@@ -9,5 +9,5 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà phong lại đyeu z ',
     btnReply: 'phong rấc cute',
     reply: 'tanh khom cute tí nào <33333333',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/nnfong/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
