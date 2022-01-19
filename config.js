@@ -9,5 +9,5 @@ const CONFIG = {
     question:'Tại sao chọn có z,
     btnReply: 'cute x10,
     reply: 'phong rấc cute,
-    mess: 'tui bik mà',
+    mess: 'tui bik mà'
 }
